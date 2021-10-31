@@ -1,6 +1,6 @@
 # 30 Days of Flutter
 
-Followed this amazing tutorial by which you can find [here](https://www.youtube.com/watch?v=j-LOab_PzzU&t=27569s)
+Followed this amazing tutorial by [codepur](https://github.com/iampawan) which you can find [here](https://www.youtube.com/watch?v=j-LOab_PzzU&t=27569s)
 
 ## Mobile Previews
 
