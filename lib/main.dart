@@ -6,8 +6,10 @@ import 'package:flutter_application/pages/login_page.dart';
 import 'package:flutter_application/utlis/main.dart';
 import 'package:flutter_application/widgets/themes.dart';
 import 'package:velocity_x/velocity_x.dart';
+import 'package:url_strategy/url_strategy.dart';
 
 void main() {
+  setPathUrlStrategy();
   runApp(VxState(store: MyStore(), child: MyApp()));
 }
 
